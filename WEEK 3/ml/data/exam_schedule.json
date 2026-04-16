@@ -1,0 +1,27 @@
+{
+  "semester": "Fall 2025",
+  "exam_periods": [
+    {
+      "name": "Midterm Exams",
+      "start_date": "2025-10-13",
+      "end_date": "2025-10-19",
+      "intensity_multiplier": 1.35,
+      "description": "Fall midterm examination period"
+    },
+    {
+      "name": "Finals Week",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "intensity_multiplier": 1.65,
+      "description": "Final examination week – peak library usage expected"
+    }
+  ],
+  "forecast_target": {
+    "name": "Finals Week Forecast",
+    "start_date": "2025-12-01",
+    "end_date": "2025-12-07",
+    "intensity_multiplier": 1.65
+  },
+  "max_capacity_kwh": 400,
+  "baseline_kwh": 150
+}
